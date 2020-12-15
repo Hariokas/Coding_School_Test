@@ -1,0 +1,13 @@
+C:\Users\Be9137\Programming\Testas\1_task\bin\Debug\netcoreapp3.1\1_task.exe
+C:\Users\Be9137\Programming\Testas\1_task\bin\Debug\netcoreapp3.1\1_task.deps.json
+C:\Users\Be9137\Programming\Testas\1_task\bin\Debug\netcoreapp3.1\1_task.runtimeconfig.json
+C:\Users\Be9137\Programming\Testas\1_task\bin\Debug\netcoreapp3.1\1_task.runtimeconfig.dev.json
+C:\Users\Be9137\Programming\Testas\1_task\bin\Debug\netcoreapp3.1\1_task.dll
+C:\Users\Be9137\Programming\Testas\1_task\bin\Debug\netcoreapp3.1\1_task.pdb
+C:\Users\Be9137\Programming\Testas\1_task\obj\Debug\netcoreapp3.1\1_task.csprojAssemblyReference.cache
+C:\Users\Be9137\Programming\Testas\1_task\obj\Debug\netcoreapp3.1\1_task.AssemblyInfoInputs.cache
+C:\Users\Be9137\Programming\Testas\1_task\obj\Debug\netcoreapp3.1\1_task.AssemblyInfo.cs
+C:\Users\Be9137\Programming\Testas\1_task\obj\Debug\netcoreapp3.1\1_task.csproj.CoreCompileInputs.cache
+C:\Users\Be9137\Programming\Testas\1_task\obj\Debug\netcoreapp3.1\1_task.dll
+C:\Users\Be9137\Programming\Testas\1_task\obj\Debug\netcoreapp3.1\1_task.pdb
+C:\Users\Be9137\Programming\Testas\1_task\obj\Debug\netcoreapp3.1\1_task.genruntimeconfig.cache
